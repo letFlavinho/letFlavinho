@@ -1,7 +1,7 @@
 ### Welcome to my Cave 👋
 
 <!--
-**Flavinho1/Flavinho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Flavinho1/Flavinho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Linkedin](www.linkedin.com/in/flávio-bulhões-b4ab761b7)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Stoner
--->
+
