@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... FrontEnd
 - 🤔 I’m looking for help with ... BackEnd
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Linkedin](www.linkedin.com/in/flávio-bulhões-b4ab761b7)
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/fl%C3%A1vio-bulh%C3%B5es-b4ab761b7/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Stoner
 
