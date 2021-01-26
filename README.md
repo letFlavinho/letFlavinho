@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/fl%C3%A1vio-bulh%C3%B5es-b4ab761b7/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Stoner
+- ⚡ Fun fact: ... Likes cats
 
