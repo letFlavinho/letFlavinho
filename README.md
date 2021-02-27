@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Web Development
-- 🌱 I’m currently learning ... JavaScript
+- 🔭 I’m currently working on ... Front End Web Development
+- 🌱 I’m currently learning ... ReactJS
 - 👯 I’m looking to collaborate on ... The evolution of the human being
 - 🤔 I’m looking for help with ... BackEnd
 - 💬 Ask me about ... Anything
